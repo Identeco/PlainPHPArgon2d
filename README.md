@@ -6,7 +6,7 @@ The PlainPHPArgon2d library allows Argon2d hashes to be calculated on any standa
 The calculation of Argon2d hashes is implemented directly in PHP according to the [Argon2-RFC 9106](https://www.rfc-editor.org/rfc/rfc9106.html) and uses only the arithmetic operations provided by PHP to calculate the hash.
 
 This library was developed as part of a bachelor thesis.
-You can find more about it in the corresponding [blog article](https://identeco.de/en/blog/schutz_vor_identitätsdiebstählen_durch_die_erweiterung_von_php_um_die_speicherintensive_hashfunktion_argon2d/).
+You can find more about it in the corresponding [blog article](https://identeco.de/blog/protection-against-identity-theft-through-the-extension-of-php-with-argon2d/).
 
 ## Limitations
 
